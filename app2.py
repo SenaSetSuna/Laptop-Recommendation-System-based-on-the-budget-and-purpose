@@ -1,10 +1,3 @@
-# Laptop Recommendation System based on your budget and purpose! 💻
-# build by these kind of peaople :v
-# 1. <NAME> <NIM> <GITHUB>
-# 2. <NAME> <NIM> <GITHUB>
-# 3. <NAME> <NIM> <GITHUB>
-
-
 import streamlit as st
 
 st.title("Laptop Recommendation System based on your budget and purpose! 💻")
