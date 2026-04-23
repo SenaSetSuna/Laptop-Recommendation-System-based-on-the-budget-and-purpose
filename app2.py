@@ -4,9 +4,9 @@ st.title("Laptop Recommendation System based on your budget and purpose! 💻")
 
 st.write("dibuat oleh orang-orang dibawah ini")
 st.markdown("""
-1. Timbul (639)
-2. Zacky (651)
-3. Ridwan (628)
+1. Hasto Timbul (639)
+2. Mohammad Zacky (651)
+3. Ridwan Hidayatullah (628)
 """)
 
 # selection box budget
@@ -119,4 +119,3 @@ if st.button("Get Recommendation"):
     # the else (if there's no match in db)
     else:
         st.info("Maaf saat ini tidak ada rekomendasi yang sesuai dengan kobinasi saat ini🔍")
-
