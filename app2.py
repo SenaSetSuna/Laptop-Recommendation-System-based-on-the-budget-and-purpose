@@ -10,7 +10,11 @@ import streamlit as st
 st.title("Laptop Recommendation System based on your budget and purpose! 💻")
 
 st.write("dibuat oleh orang-orang dibawah ini")
-st.markdown(" 1.Timbul (639) <br> 2.Zacky (651) <br> 3.Ridwan (628)", unsafe_allow_html=True)
+st.markdown("""
+1. Timbul (639)
+2. Zacky (651)
+3. Ridwan (628)
+""")
 
 # selection box budget
 selected_budget = st.selectbox(
